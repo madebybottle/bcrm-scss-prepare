@@ -1,0 +1,19 @@
+{
+  "name": "bcrm-scss-prepare",
+  "version": "0.0.1",
+  "description": "Prepares a BottleCRM module's SCSS for a one-run compile",
+  "keywords": [
+    "BottleCRM",
+    "scss",
+    "bcrm",
+    "component"
+  ],
+  "author": "Austin Birch <austin@austinbirch.co.uk>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madebybottle/bcrm-scss-prepare"
+  },
+  "dependencies": {},
+  "main": "index.js"
+}
